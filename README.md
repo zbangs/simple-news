@@ -1,1 +1,1 @@
-# new-news-now
+# simple-news-now
